@@ -2,3 +2,5 @@
 .envrc
 .git/
 .pytest_cache/
+/venv/
+/tests/
